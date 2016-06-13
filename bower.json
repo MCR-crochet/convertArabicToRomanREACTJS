@@ -1,0 +1,11 @@
+{
+    "name": "reflux-todo",
+    "version": "0.0.1",
+    "dependencies": {
+        "todomvc-app-css": "~1.0.1",
+        "reflux": "^0.4.1",
+        "react": "^15.1.0",
+        "react-bootstrap": "^0.29.4",
+        "jquery": "^3.0.0"
+    }
+}
